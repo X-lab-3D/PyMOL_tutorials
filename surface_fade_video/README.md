@@ -19,3 +19,8 @@ Either on the menu, Scene-->Append or on command line:
 15) Before you save the video, you want to reset the surface transparency. This is a session-wide value that will be maintained at the beginning of your saved video, so it's important to reset it. Go to the beginning of the movie. Set again transparency to 0:
 ```set transparency, 0```
 16) Save your file: Menu, File--> Export Movie as --> Select the best option for your sytem (mp4/MPEG4 is lighter than GIF, but a bit less universal. Do not use PNG images as that will literally generate one png for each frame of the video.)
+
+
+
+
+https://user-images.githubusercontent.com/55996385/173611362-63226319-f6fb-439a-8f9f-fcf195e49aa5.mp4
