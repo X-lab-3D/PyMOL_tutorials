@@ -11,7 +11,7 @@ Either on the menu, Scene-->Append or on command line:
 8) Identify the two keyframes that merge the two programs on the bottom blue line. It will be the "chubby" one. If you play the video, you can see how there is not a nice interpolation between them.
 9) Use ctrl + shift + right click to drag one of these two frames away from the others (wither the first one to the left or the second one to the right). Just move them away a bit.
 10)(optional) Use ctrl + shift + left click and drag from left to right to add frames (green bar will be shown) between these two keyframes.
-11) Run the movie_fade.py script.
+11) Download the [movie_fade.py script](https://raw.githubusercontent.com/Pymol-Scripts/Pymol-script-repo/master/movie_fade.py) Run the movie_fade.py script. [Explanation here.](https://pymolwiki.org/index.php/Movie_fade)
 12) Run ```import movie_fade```
 13) identify a starting and a ending frame for your fading. I suggest as starting the keyframe where the movie starts zooming and as ending frame somewhere during the final rolling of the video.
 14) the movie fade command should be: ```movie_fade <setting>, <startFrame>, <startValue>, <endFrame>, <endValue>``` so, assuming you selected frames 240 and 380 as start and end, run:
