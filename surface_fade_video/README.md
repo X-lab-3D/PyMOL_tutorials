@@ -20,7 +20,7 @@ Either on the menu, Scene-->Append or on command line:
 ```set transparency, 0```
 16) Save your file: Menu, File--> Export Movie as --> Select the best option for your sytem (mp4/MPEG4 is lighter than GIF, but a bit less universal. Do not use PNG images as that will literally generate one png for each frame of the video.)
 
-
+Note: If you want to generate a movie from our pse file yourself, PYMOL may print out a SECURITY WARNING. If you do not press in the cmmand line `accept`, the movie created has no any motion.  
 
 
 https://user-images.githubusercontent.com/55996385/173611362-63226319-f6fb-439a-8f9f-fcf195e49aa5.mp4
